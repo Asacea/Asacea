@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asacea
 - 👀 I’m interested in K-Pop 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
