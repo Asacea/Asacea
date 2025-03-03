@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Asacea
-- 👀 I’m interested in K-Pop 
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in travel 
+- 🌱 I’m currently learning computer science
+- 📫 How to reach me: 3374937235@qq.com
 
 <!---
 Asacea/Asacea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
